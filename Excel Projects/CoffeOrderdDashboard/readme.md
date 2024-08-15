@@ -33,7 +33,7 @@ These functions were instrumental in populating and organizing the data that dri
 
 ## Preview
 
-![Dashboard Preview](./images/dashboard.png)
+![Dashboard Preview](./images/dashboard.PNG)
 
 ## Additional Information
 
