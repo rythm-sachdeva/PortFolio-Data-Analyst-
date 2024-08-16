@@ -1,7 +1,3 @@
-Here's the revised README without listing the specific queries:
-
----
-
 # Target Data Analysis and Visualization
 
 This project involves analyzing and visualizing data from Target, a popular retail store in the USA. The data was explored and processed using SQL and Python, focusing on generating insights through a series of queries across different complexity levels.
